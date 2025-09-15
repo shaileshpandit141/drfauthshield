@@ -9,7 +9,7 @@ description = "A Django REST Framework package offering robust JWT authenticatio
 readme = { file = "README.md", content-type = "text/markdown" }
 license = { file = "LICENSE" }
 authors = [
-    { name = "shaileshpandit141", email = "shaileshpandit141@gmail.com" },
+    { name = "Shailesh Pandit", email = "shaileshpandit141@gmail.com" },
 ]
 classifiers = [
     "Development Status :: 1 - Planning",
@@ -27,11 +27,18 @@ classifiers = [
 keywords = [
     "django",
     "drf",
-    "rest",
+    "django-rest-framework",
     "authentication",
     "jwt",
+    "json-web-token",
     "token",
+    "token-authentication",
+    "rest-api",
+    "api-auth",
+    "auth",
     "security",
+    "authorization",
+    "drfauthshield",
 ]
 requires-python = ">=3.13"
 dependencies = []
