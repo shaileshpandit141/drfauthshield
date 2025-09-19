@@ -41,7 +41,9 @@ keywords = [
     "drfauthshield",
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "python-dotenv>=1.1.1",
+]
 
 # CLI scripts entry point configuration
 # -------------------------------------
