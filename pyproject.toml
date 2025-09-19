@@ -68,7 +68,6 @@ dev = [
     "drfauthshield",
     "django-redis>=6.0.0",
     "django-cors-headers>=4.7.0",
-    "argon2-cffi-bindings>=21.2.0",
 ]
 
 # =====================
